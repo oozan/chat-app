@@ -3,7 +3,7 @@ import "../../css/Header.scss";
 
 const Header = () => (
     <div className="header">
-        <h2>Realtime chat app</h2>
+        <h2>Chat App 0.1</h2>
     </div>
 );
 
