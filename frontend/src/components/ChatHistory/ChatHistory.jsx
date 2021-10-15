@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Message from '../Message/Message';
 import "../../css/ChatHistory.scss";
 
 class ChatHistory extends Component {
