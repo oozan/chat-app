@@ -1,0 +1,8 @@
+[build]
+  command = "./build.sh"
+  functions = "functions"
+  publish = "public"
+
+[build.environment]
+  GO_IMPORT_PATH = "https://github.com/oozan/chat-app/tree/master/backend"
+  GO111MODULE = "on"
